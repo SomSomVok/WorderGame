@@ -1,3 +1,5 @@
-<!php
+<?php
 
-!>
+header("Location: build/index.html"); 
+exit;
+?>
