@@ -1,3 +1,4 @@
-# wordle_clone
+# WorderGame
 
-A simple vanilla js clone of Wordle
+Minden jog fenntartva, így másolása tilos!
+By: SomSomVok
